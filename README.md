@@ -1,2 +1,2 @@
-# Cypress_Automation
-Cypress_Automation Tests
+# Cypress_UI_Automation
+Cypress_UI_Automation Tests
